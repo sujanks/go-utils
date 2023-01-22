@@ -1,0 +1,6 @@
+parent:
+    child1:
+        key1: decryptedvalue
+    child2:
+        child3:
+            key3: decryptedvalue
